@@ -1,0 +1,8 @@
+{
+  "name": "forget-the-rest",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matteo-hertel/forget-the-rest.git",
+  "author": "Matteo Hertel <info@matteohertel.com>",
+  "license": "MIT"
+}
