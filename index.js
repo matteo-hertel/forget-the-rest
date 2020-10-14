@@ -1,1 +1,1 @@
-console.log("forget the rest");
+console.log('forget the rest')
