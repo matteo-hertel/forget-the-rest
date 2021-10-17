@@ -6,6 +6,7 @@
   "author": "Matteo Hertel <info@matteohertel.com>",
   "license": "MIT",
   "scripts": {
+    "type-check": "tsc --noEmit",
     "dev": "ts-node ./src"
   },
   "devDependencies": {
